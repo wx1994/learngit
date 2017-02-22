@@ -1,2 +1,2 @@
 Git is disturbuted aversion control system.
-Git isgree software.
+Git isgree software distributed under the GPL.
